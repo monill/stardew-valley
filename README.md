@@ -2,7 +2,7 @@
 
 Project based on tutorial from: https://youtu.be/T4IX36sP_0c
 
-<img src="imgs/main_screen.jpg" alt="Screen" width="550px">
+<img src="imgs/main_screen.png" alt="Screen" width="550px">
 
 How to play, keyboard settings
 
